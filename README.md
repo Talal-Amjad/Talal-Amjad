@@ -62,20 +62,19 @@
 </div>
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=talal-amjad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=6AD3F5&icon_color=6AD3F5&text_color=ffffff"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=talal-amjad&theme=tokyonight&hide_border=true&background=0D1117&ring=6AD3F5&fire=6AD3F5&currStreakLabel=6AD3F5"/>
+<img width="49%" src="https://github-readme-stats-71c94ptqd-muhammad-talal-amjads-projects.vercel.app/api?username=talal-amjad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=6AD3F5&icon_color=6AD3F5&text_color=ffffff" alt="Talal GitHub Stats"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=talal-amjad&theme=tokyonight&hide_border=true&background=0D1117&ring=6AD3F5&fire=6AD3F5&currStreakLabel=6AD3F5" alt="Talal Streak Stats"/>
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talal-amjad&theme=tokyonight&hide_border=true&layout=compact&bg_color=0D1117&title_color=6AD3F5&text_color=ffffff"/>
+<img width="40%" src="https://github-readme-stats-71c94ptqd-muhammad-talal-amjads-projects.vercel.app/api/top-langs/?username=talal-amjad&theme=tokyonight&hide_border=true&layout=compact&bg_color=0D1117&title_color=6AD3F5&text_color=ffffff&langs_count=8" alt="Talal Top Languages"/>
 
 </div>
-
 ---
 
 ## 🚀 Featured Projects
